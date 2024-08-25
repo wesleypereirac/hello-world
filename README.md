@@ -12,7 +12,7 @@ Esse repositório é para praticar o fluxo do GitHub
   1.  criação de uma branch ("cópia" do projeto principal)
   2.  as alterações ou adições na branch em si ("codar")
   3.  criação de commits (salvar as alterações na branch)
-  4.  efetuar pull requests (solicita analise das alterações para a execução do merge)
-  5.  e por fim merge (implementa as alterações na branch principal)
+  4.  efetuar pull requests (solicita revisão das novas implementações)
+  5.  e por fim merge (após as revisões, implementa as alterações na branch principal)
 
 
